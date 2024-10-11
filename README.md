@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a 3d interactive experiment project.
+
+This is a  project bootstrapped with [Next.js](https://nextjs.org) [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+Use [Splines](https://spline.design/) to model and interact with models using the capabilities provided by [reacts-splines](https://github.com/splinetool/react-spline)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/053c702b-c171-4654-80b7-5d3b3228e607">
+
 
 ## Getting Started
 
@@ -19,15 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
